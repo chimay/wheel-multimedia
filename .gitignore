@@ -1,2 +1,2 @@
-!screeencast/*.jpg
-!screeencast/*.gif
+!*.jpg
+!*.gif
