@@ -21,4 +21,4 @@
 
 # Screencasts
 
-From an old version. See the [screencasts](screencasts) page.
+From an old version. See the [screencasts](screencasts.md) page.
