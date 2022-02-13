@@ -21,4 +21,6 @@
 
 # Screencasts
 
-From an old version. See the [screencasts](screencasts.md) page.
+ See the [screencasts](screencasts.md) page.
+
+ These demos have been made with an old wheel version.
